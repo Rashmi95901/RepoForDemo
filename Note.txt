@@ -1,1 +1,1 @@
-This is a text file to be uploaded on remote repository
+This is a text file to be uploaded on remote repository. File is editted in VI editor before publishing
